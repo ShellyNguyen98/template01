@@ -3928,7 +3928,7 @@
 		}
 
 			#footer .copyright a {
-				color: #f2a3a5;
+				color: #ebb7b9;
 			}
 
 		@media screen and (max-width: 980px) {
@@ -3945,4 +3945,8 @@
 				padding: 2em 0 0.1em 0;
 			}
 
+		}
+
+		#madeBy .copyright {
+			text-align: center;
 		}
